@@ -23,7 +23,9 @@ function App() {
               }
             })
           }
-        ></button>
+        >
+          Change Color
+        </button>
       </ThemeContext.Provider>
     </>
   )
